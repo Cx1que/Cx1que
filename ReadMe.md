@@ -18,4 +18,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e sou apaixonado por tec
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cx1que&layout=compact&bg_color=1a1b27&border_color=FFF&title_color=7957d5&text_color=FFF)
 
 ### 📌 Projetos em Destaque
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Cx1que&repo=Portifolio-KilluaHxH&bg_color=1a1b27&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=7957d5&text_color=fff)](https://github.com/Cx1que/Portifolio-KilluaHxH)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Cx1que&repo=Cadastro-de-ClientesV2&bg_color=1a1b27&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=7957d5&text_color=fff)](https://github.com/Cx1que/Cadastro-de-ClientesV2)
+
